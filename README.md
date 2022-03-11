@@ -1,2 +1,2 @@
-# alura-javascript
+# alura-javaScript
 Aprendizado de JavaScript pela plataforma Alura
