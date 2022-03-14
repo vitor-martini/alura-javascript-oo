@@ -1,15 +1,9 @@
-export class Cliente{
-    constructor(nome, cpf){
+export class Funcionario{
+    constructor(nome, cpf, salario){
         this._nome = nome;
         this._cpf = cpf;
-    }
-
-    get nome(){
-        return this._nome;
-    }
-
-    get cpf(){
-        return this._cpf;
+        this._salario = salario;
+        this._senha;
     }
 
     cadastrarSenha(senha){
