@@ -1,0 +1,20 @@
+{
+  "name": "alurajs",
+  "version": "1.0.0",
+  "description": "Projeto 01 de JS da plataforma Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitor-martini/alura-java-script.git"
+  },
+  "author": "Vitor Martini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitor-martini/alura-java-script/issues"
+  },
+  "homepage": "https://github.com/vitor-martini/alura-java-script#readme",
+  "type": "module"
+}
