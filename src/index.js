@@ -1,8 +1,8 @@
-import { Cliente } from "./Cliente.js"
-import { ContaCorrente } from "./Conta/ContaCorrente.js"
-import { ContaPoupanca } from "./Conta/ContaPoupanca.js";
-import { Diretor } from "./Funcionario/Diretor.js"
-import { Gerente } from "./Funcionario/Gerente.js"
+import { Cliente } from "./class/Cliente.js"
+import { ContaCorrente } from "./class/Conta/ContaCorrente.js"
+import { ContaPoupanca } from "./class/Conta/ContaPoupanca.js";
+import { Diretor } from "./class/Funcionario/Diretor.js"
+import { Gerente } from "./class/Funcionario/Gerente.js"
 import { SistemaDeAutenticacao } from "./SistemaDeAutenticacao.js";
 
 // Definição dos funcionarios

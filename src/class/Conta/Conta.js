@@ -1,5 +1,5 @@
 import { Cliente } from "../Cliente.js";
-import { Mensagem } from "../ENUM.js";
+import { Mensagem } from "../../ENUM.js";
 
 //Classe Abstrata
 export class Conta{
